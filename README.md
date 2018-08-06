@@ -1,5 +1,5 @@
 # bdtransjs
-百度翻译API
+＃＃百度翻译API
 设置headsers后,发送请求只能翻译一个，
 使用chrome开发者工具获取post接口发送请求，
 发现每个单词form表单的sign值都不相同，对其进行了加密，
